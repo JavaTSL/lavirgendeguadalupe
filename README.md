@@ -1,6 +1,6 @@
 #### [🔗 Discord Link](https://discord.gg/dUF9K4pv3w) - [📖 Terms](https://github.com/raiderjs/btchStealer#terms) - [🔨 Builder](https://github.com/raiderjs/PirateStealer/releases/Builder) - [💎 Premium](https://discord.gg/dUF9K4pv3w) - [💡 Features](https://github.com/raiderjs/PirateStealer#features)
-# PirateStealer
-Official PirateStealer repos
+# btchStealer
+Official btchStealer repos
 
 # What is btchStealer ? 
 btchStealer is an educational purpose only open-source Discord Malware. With an easy to build panel and a "premium" feature (Join Discord for more infos) 
